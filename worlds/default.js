@@ -81,25 +81,6 @@ export function init(Constants) {
                 placeholderOffset: [0, 0, 0],
             }
         },
-{
-            card: {
-                name:"COLUMNASGLB",
-                type: "3d",
-                fileName: "/COLUMNASGLB.zip",
-                dataLocation: "./assets/3D/COLUMNASGLB.zip",
-                singleSided: true,
-                shadow: true,
-                layers: ["walk"],
-                translation:[0, -1.7, 0],
-                dataScale:[1,1,1],
-                loadSynchronously: true,
-		isWorld: true,
-                placeholder: true,
-                placeholderSize: [400, 0.1, 400],
-                placeholderColor: 0x808080,
-                placeholderOffset: [0, 0, 0],
-            }
-        },
  {
             card: {
                 name:"columnasteatro",
